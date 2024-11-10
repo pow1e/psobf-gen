@@ -1,4 +1,4 @@
-module github.com/pow1e/psobf-gent
+module github.com/pow1e/psobf-gen
 
 go 1.20
 

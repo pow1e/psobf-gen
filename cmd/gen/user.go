@@ -1,7 +1,7 @@
 package gen
 
 import (
-	"github.com/pow1e/psobf-gent/pkg/gen/user"
+	"github.com/pow1e/psobf-gen/pkg/gen/user"
 	"github.com/spf13/cobra"
 )
 

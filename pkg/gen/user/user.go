@@ -2,9 +2,9 @@ package user
 
 import (
 	"fmt"
-	"github.com/pow1e/psobf-gent/pkg/flags"
-	"github.com/pow1e/psobf-gent/pkg/obfuscate"
-	"github.com/pow1e/psobf-gent/pkg/utils"
+	"github.com/pow1e/psobf-gen/pkg/flags"
+	"github.com/pow1e/psobf-gen/pkg/obfuscate"
+	"github.com/pow1e/psobf-gen/pkg/utils"
 	"log"
 )
 

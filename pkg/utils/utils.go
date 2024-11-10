@@ -2,7 +2,7 @@ package utils
 
 import (
 	"fmt"
-	"github.com/pow1e/psobf-gent/pkg/flags"
+	"github.com/pow1e/psobf-gen/pkg/flags"
 	"io/ioutil"
 	"log"
 	"path/filepath"

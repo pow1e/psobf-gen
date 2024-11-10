@@ -2,7 +2,7 @@ package cmd
 
 import (
 	cc "github.com/ivanpirog/coloredcobra"
-	"github.com/pow1e/psobf-gent/pkg/flags"
+	"github.com/pow1e/psobf-gen/pkg/flags"
 	"github.com/spf13/cobra"
 	"os"
 )
