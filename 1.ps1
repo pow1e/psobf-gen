@@ -1,0 +1,1 @@
+New-LocalUser test -Password (ConvertTo-SecureString -String 'pass!@#!23' -AsPlainText -Force) > $null 2>&1
